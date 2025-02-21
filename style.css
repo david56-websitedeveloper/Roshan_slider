@@ -84,7 +84,7 @@ header a{
 .carousel .list .item .buttons button:nth-child(2){
     background-color: transparent;
     border: 1px solid #fff;
-    color: #eee;
+    color: orangered;
 }
 /* thumbail */
 .thumbnail{
@@ -137,7 +137,7 @@ header a{
     width: 40px;
     height: 40px;
     border-radius: 50%;
-    background-color: #eee4;
+    background-color: blue;
     border: none;
     color: #fff;
     font-family: monospace;
